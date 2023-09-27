@@ -1,5 +1,5 @@
 <template>
-  <div id="page-wrap">
+  <div id="page-wrap" class="bg-white rounded-2xl">
     <h1>Shopping Cart</h1>
     <div
       v-for="product in cartItems"
